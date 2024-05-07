@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do daniel-caletti 😁
+## Bem-vindo(a) ao perfil do Daniel Caletti 😁
 
  <div>
    <a href="https://github.com/daniel-caletti">
