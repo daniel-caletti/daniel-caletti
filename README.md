@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/daniel-caletti">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-caletti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-caletti&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-caletti&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-caletti&layout=compact&langs_count=6&theme=outrun"/>
 </div>
     
 <div style="display: inline_block"><br>
